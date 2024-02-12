@@ -13,5 +13,6 @@
   - https://aayushg.com/thesis.pdf 
   - https://ethereum-magicians.org/t/erc-7524-plume-signature-in-wallets/15902/2
   - https://github.com/ethereum/EIPs/blob/53683e7716ff7c962e5a30a087ced51a4c60951b/EIPS/eip-7524.md
+  - https://www.ietf.org/archive/id/draft-irtf-cfrg-hash-to-curve-13.html (spec that needs to be implemented in halo2 for [zk-nullifier-sig](https://github.com/plume-sig/zk-nullifier-sig?tab=readme-ov-file#open-work) to work)
 
 
