@@ -1,4 +1,5 @@
 # Papers
+- [Spartan](https://eprint.iacr.org/2019/550): Efficient and general-purpose zkSNARKs without trusted setup
 
 # Posts / articles
 - circom-ecdsa
